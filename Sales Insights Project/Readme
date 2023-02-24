@@ -1,3 +1,6 @@
 Sales Insights 
 *   Designed a Power BI dashboard to understand  sales trend.
 The final dashboard was effective at displaying the sales trend, allowing users to understand the data and make informed decisions.
+
+FYI,
+db_dump.sql contains RAW data.
